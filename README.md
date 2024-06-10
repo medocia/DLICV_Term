@@ -6,4 +6,6 @@ SpaceNet 2 Challenge winners (https://github.com/SpaceNetChallenge/BuildingDetec
 
 SpaceNet 8 Challenge winners (https://github.com/SpaceNetChallenge/SpaceNet8.git)
 
+Convert 16bit .TIF imagery to 8bit (https://github.com/jshermeyer/SR_Utils.git)
+
 Dual HR-Net (https://github.com/SIAnalytics/dual-hrnet.git) - only for trial
